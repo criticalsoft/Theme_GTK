@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Venta X_Glass_White
+Comment=GTK Glass Theme
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Venta X_Glass_White
+MetacityTheme=Venta X_Glass_White
+IconTheme=Marwaita-Light
+CursorTheme=Marwaita-Light
+CursorSize=24
